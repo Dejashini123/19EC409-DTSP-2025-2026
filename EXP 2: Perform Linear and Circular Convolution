@@ -89,7 +89,8 @@ plot2d3(n, y_circ);            // circular convolution result
 xtitle("Circular Convolution Result", "n", "Amplitude");
 
 
-# OUTPUT (Linear Convolution): 
+# OUTPUT (Linear Convolution):
+
 
 
 
