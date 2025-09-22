@@ -8,6 +8,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
+```
 clc;
 clear;
 
@@ -42,6 +43,7 @@ subplot(3,1,3);
 plot2d3(n, abs(X_fft));   // FFT magnitude
 title("FFT Magnitude (Built-in)");
 xlabel("k"); ylabel("|X[k]|");
+```
 
 # OUTPUT:<img width="958" height="539" alt="image" src="https://github.com/user-attachments/assets/8e954162-2021-44b4-9bdd-a9d4b91e9cd0" />
 
