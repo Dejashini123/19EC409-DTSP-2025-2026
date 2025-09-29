@@ -73,10 +73,10 @@ print("Filtered audio saved as cleaned_audio.wav")
 <img width="658" height="304" alt="image" src="https://github.com/user-attachments/assets/adc19851-8cf4-46f3-8da1-61edfbf9997c" />
 
 input audio: "C:\Users\91944\Downloads\dog-bark-sound-effect-322989 (1).mp3"
-"C:\Users\91944\Downloads\dog bark sound.wav"
 
 
 
-# RESULTS:The audio file has a sampling rate of 44100 Hz and contains 1428558 samples.
+# RESULTS:
+The audio file has a sampling rate of 44100 Hz and contains 1428558 samples.
 The waveform shows the variations in amplitude over time, representing the dog bark sound.
 
